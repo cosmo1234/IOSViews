@@ -1,0 +1,22 @@
+{
+  "name": "IOSViews",
+  "version": "0.1.0",
+  "summary": "A short description of IOSViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cosmo1234/IOSViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cosmo1234": "harpheezsagaya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cosmo1234/IOSViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IOSViews/Classes/**/*"
+}
